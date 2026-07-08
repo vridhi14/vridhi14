@@ -1,4 +1,12 @@
-# 💫 About Me:
+# ✨ I like turning "How does this work?" into "I built this."
+
+---
+
+<h2 align="center">Hi, I'm Vridhi 👋</h2>
+
+---
+
+## 💫 About Me:
 • 🚀 Full-Stack Developer | MERN Stack<br>• 💻 Building modern web applications and learning by creating projects<br>• 🧠 Solving DSA problems in Java and strengthening CS fundamentals<br>• 🤝 Open to Open Source, Hackathons, and Developer Collaborations<br>• 🌱 Always learning, always building, always improving
 
 

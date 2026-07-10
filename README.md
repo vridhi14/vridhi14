@@ -1,7 +1,7 @@
 # ✨ I like turning "How does this work?" into "I built this."
 
 
-<h2 align="center">Hi, I'm Vridhi 👋</h2>
+<h2 align="center">Hi, I'm Vridhi </h2>
 
 
 ## 💫 About Me:

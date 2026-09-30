@@ -1,7 +1,10 @@
 # ✨ I like turning "How does this work?" into "I built this."
 
-
 <h2 align="center">Hi, I'm Vridhi </h2>
+
+<p align="center">
+  <img src="./vridhi-card.svg" alt="Vridhi Rajeev - MERN Stack Developer" width="100%" />
+</p>
 
 
 ## 💫 About Me:

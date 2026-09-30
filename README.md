@@ -8,8 +8,13 @@
 
 
 ## 💫 About Me:
-• 🚀 Full-Stack Developer | MERN Stack<br>• 💻 Building modern web applications and learning by creating projects<br>• 🧠 Solving DSA problems in Java and strengthening CS fundamentals<br>• 🤝 Open to Open Source, Hackathons, and Developer Collaborations<br>• 🌱 Always learning, always building, always improving
-
+- 🚀 Full-Stack Developer | MERN Stack<br>
+- 🔐 Building secure, real-time web apps with REST APIs, JWT and Socket.io<br>
+- 🧠 Solving DSA problems in Java and strengthening CS fundamentals (OS, DBMS, OOPs, CN)<br>
+- 🤖 Exploring LLM APIs to build AI-powered features<br>
+- ☁️ Learning DevOps basics: hands-on with Docker and CI/CD, exploring Redis, AWS and cloud fundamentals<br>
+- 🤝 Open to Open Source, Hackathons, and Developer Collaborations<br>
+- 🌱 Always learning, always building, always improving
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vridhi-rajeev/)

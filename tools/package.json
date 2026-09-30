@@ -1,0 +1,12 @@
+{
+  "name": "vridhi-card-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generates the animated particle + typing README card (assets/vridhi-card.svg)",
+  "scripts": {
+    "build": "node generate-card.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}

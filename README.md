@@ -33,10 +33,10 @@
 ![LLM API Integration](https://img.shields.io/badge/LLM%20API%20Integration-8A2BE2?style=for-the-badge) ![LLM Basics](https://img.shields.io/badge/LLM%20Basics-6A5ACD?style=for-the-badge)
 
 **☕ Languages & CS Fundamentals**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![DSA](https://img.shields.io/badge/DSA%20in%20Java-%23ED8B00.svg?style=for-the-badge) ![OS](https://img.shields.io/badge/Operating%20Systems-%23444444.svg?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-%23444444.svg?style=for-the-badge) ![OOPs](https://img.shields.io/badge/OOPs-%23444444.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=for-the-badge) ![OS](https://img.shields.io/badge/Operating%20Systems-%23444444.svg?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-%23444444.svg?style=for-the-badge) ![OOPs](https://img.shields.io/badge/OOPs-%23444444.svg?style=for-the-badge) ![CN](https://img.shields.io/badge/Computer%20Networks-%23444444.svg?style=for-the-badge)
 
 **🛠️ Tools**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
